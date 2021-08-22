@@ -9,7 +9,7 @@ It's just basic website, for my archive
 You can see my future ideas, that maybe become real.
 
 ```markdown
-Future ideas\plans:
+Future ideas \ plans:
 
 SahiomiEMU [not in development, just a future idea]
 TricSimulator
