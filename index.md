@@ -1,33 +1,24 @@
-## Welcome to GitHub Pages
+## Welcome to my archive
 
-You can use the [editor on GitHub](https://github.com/SahLTD/AlexSArchive/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You can see my old videos or something else.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+It's just basic website, for my archive
 
-### Markdown
+### My other future ideas
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+You can see my future ideas, that maybe become real.
 
 ```markdown
-Syntax highlighted code block
+Future ideas\plans:
 
-# Header 1
-## Header 2
-### Header 3
+SahiomiEMU [not in development, just a future idea]
+TricSimulator
 
-- Bulleted
-- List
+[more ideas soon]
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+- AlexS
 ```
+### License
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SahLTD/AlexSArchive/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+If you want use my VEG's or some my videos, please add link to my channel or this repository.
+Have a great day.
